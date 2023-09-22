@@ -1,2 +1,7 @@
 # elliewoodward.github.io
-creating a new gitHub page
+Creating a new gitHub page for my CS 155 class
+
+## New Page!
+Hello! I learned how to make a new page, add to the repo and so much more
+Taking the CS 155 class through BSU was a lot of fun and very helpful to building my foudational skills in the cs world
+This page is hosted at elliewoodward.github.io
